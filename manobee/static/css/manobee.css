@@ -1,0 +1,14 @@
+ul.thumb{
+    margin:0 auto;
+    padding: 0;
+    float: left;
+  }
+  ul.thumb li{
+    list-style: none;
+  }
+  ul.thumb li img{
+    width: 70px;
+    height: 70px;
+    border: 1.4px solid gainsboro;
+  }
+ 
